@@ -1,5 +1,5 @@
 export const events = {
-  dev08: {
+  'f-dev08': {
     kadai: [
       {
         name: "CHEESE ACADEMY",
@@ -59,7 +59,7 @@ export const events = {
       }
     ],
   },
-  dev07: {
+  'f-dev07': {
     kadai: [
       {
         name: "Janken KADAI",
