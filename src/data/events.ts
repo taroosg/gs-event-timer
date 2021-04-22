@@ -54,7 +54,7 @@ export const events = {
     ],
     hubday: [
       {
-        name: "The next GGA",
+        name: "Opening of hubday",
         datetime: "2021-11-11T17:30:00+09:00"
       }
     ],
@@ -110,7 +110,7 @@ export const events = {
     ],
     hubday: [
       {
-        name: "The next GGA",
+        name: "Opening of hubday",
         datetime: "2021-05-20T17:30:00+09:00"
       }
     ],
