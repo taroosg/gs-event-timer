@@ -12,6 +12,7 @@ https://gs-event-timer.vercel.app/YOUR_CLASS_NAME
 
 | クラス名      | パラメータ |
 | ------------- | ---------- |
+| 山口週末 1 期 | y-dev01    |
 | 福岡週末 9 期 | f-dev09    |
 | 福岡週末 8 期 | f-dev08    |
 | 福岡週末 7 期 | f-dev07    |
