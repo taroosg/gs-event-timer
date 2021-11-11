@@ -1,4 +1,68 @@
 export const events = {
+  'y-dev01': {
+    kadai: [
+      {
+        name: "CHEESE ACADEMY",
+        datetime: "2021-10-23T12:59:59+09:00"
+      },
+      {
+        name: "Janken KADAI",
+        datetime: "2021-10-28T23:59:59+09:00"
+      },
+      {
+        name: "Janken KADAI 2",
+        datetime: "2021-11-04T23:59:59+09:00"
+      },
+      {
+        name: "Localstorage KADAI",
+        datetime: "2021-11-11T23:59:59+09:00"
+      },
+      {
+        name: "Firebase KADAI",
+        datetime: "2021-11-25T23:59:59+09:00"
+      },
+      {
+        name: "API KADAI",
+        datetime: "2021-12-02T23:59:59+09:00"
+      },
+      {
+        name: "PHP01 KADAI",
+        datetime: "2021-12-09T23:59:59+09:00"
+      },
+      {
+        name: "PHP02 KADAI",
+        datetime: "2021-12-16T23:59:59+09:00"
+      },
+      {
+        name: "PHP03 KADAI",
+        datetime: "2021-12-23T23:59:59+09:00"
+      },
+      {
+        name: "PHP04 KADAI",
+        datetime: "2022-01-06T23:59:59+09:00"
+      },
+      {
+        name: "PHP05 KADAI",
+        datetime: "2022-01-13T23:59:59+09:00"
+      },
+      {
+        name: "PHP06 KADAI",
+        datetime: "2022-01-20T23:59:59+09:00"
+      }
+    ],
+    submit: [
+      {
+        name: "Limit of product",
+        datetime: "2022-03-26T23:59:59+09:00"
+      }
+    ],
+    hubday: [
+      {
+        name: "Opening of hubday",
+        datetime: "2022-05-12T18:00:00+09:00"
+      }
+    ],
+  },
   'f-dev09': {
     kadai: [
       {
