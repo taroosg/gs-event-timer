@@ -56,6 +56,5 @@
   },
   "devDependencies": {
     "@types/react-router-dom": "^5.1.7"
-  },
-  "homepage": "https://taroosg.github.io/gs-event-timer/"
+  }
 }
