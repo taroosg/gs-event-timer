@@ -62,7 +62,8 @@ interface AllEvents {
   [key: string]: ClassEvent;
 }
 export const App = () => {
-  const params: keyof AllEvents = window.location.pathname.slice(1);
+  const uriArray = window.location.pathname.split('/');
+  const params: keyof AllEvents = uriArray[uriArray.length - 1];
   console.log(params);
   const allEvents = events as AllEvents;
   const classEvents: ClassEvent = allEvents[params];
