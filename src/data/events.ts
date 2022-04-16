@@ -1,4 +1,124 @@
 export const events = {
+  'y-dev02': {
+    kadai: [
+      {
+        name: "CHEESE ACADEMY",
+        datetime: "2022-04-09T12:59:59+09:00"
+      },
+      {
+        name: "Janken KADAI",
+        datetime: "2022-04-16T12:59:59+09:00"
+      },
+      {
+        name: "Janken KADAI 2",
+        datetime: "2022-04-21T23:59:59+09:00"
+      },
+      {
+        name: "Localstorage KADAI",
+        datetime: "2022-04-28T23:59:59+09:00"
+      },
+      {
+        name: "Firebase KADAI",
+        datetime: "2022-05-05T23:59:59+09:00"
+      },
+      {
+        name: "API KADAI",
+        datetime: "2022-05-12T23:59:59+09:00"
+      },
+      {
+        name: "PHP01 KADAI",
+        datetime: "2022-05-19T23:59:59+09:00"
+      },
+      {
+        name: "PHP02 KADAI",
+        datetime: "2022-05-26T23:59:59+09:00"
+      },
+      {
+        name: "PHP03 KADAI",
+        datetime: "2022-06-09T23:59:59+09:00"
+      },
+      {
+        name: "PHP04 KADAI",
+        datetime: "2022-06-16T23:59:59+09:00"
+      },
+      {
+        name: "PHP05 KADAI",
+        datetime: "2022-06-23T23:59:59+09:00"
+      },
+    ],
+    submit: [
+      {
+        name: "Limit of product",
+        datetime: "2022-09-10T23:59:59+09:00"
+      }
+    ],
+    hubday: [
+      {
+        name: "Opening of hubday",
+        datetime: "2022-11-02T18:00:00+09:00"
+      }
+    ],
+  },
+  'f-dev11': {
+    kadai: [
+      {
+        name: "CHEESE ACADEMY",
+        datetime: "2022-04-09T12:59:59+09:00"
+      },
+      {
+        name: "Janken KADAI",
+        datetime: "2022-04-16T12:59:59+09:00"
+      },
+      {
+        name: "Janken KADAI 2",
+        datetime: "2022-04-21T23:59:59+09:00"
+      },
+      {
+        name: "Localstorage KADAI",
+        datetime: "2022-04-28T23:59:59+09:00"
+      },
+      {
+        name: "Firebase KADAI",
+        datetime: "2022-05-05T23:59:59+09:00"
+      },
+      {
+        name: "API KADAI",
+        datetime: "2022-05-12T23:59:59+09:00"
+      },
+      {
+        name: "PHP01 KADAI",
+        datetime: "2022-05-19T23:59:59+09:00"
+      },
+      {
+        name: "PHP02 KADAI",
+        datetime: "2022-05-26T23:59:59+09:00"
+      },
+      {
+        name: "PHP03 KADAI",
+        datetime: "2022-06-09T23:59:59+09:00"
+      },
+      {
+        name: "PHP04 KADAI",
+        datetime: "2022-06-16T23:59:59+09:00"
+      },
+      {
+        name: "PHP05 KADAI",
+        datetime: "2022-06-23T23:59:59+09:00"
+      },
+    ],
+    submit: [
+      {
+        name: "Limit of product",
+        datetime: "2022-09-10T23:59:59+09:00"
+      }
+    ],
+    hubday: [
+      {
+        name: "Opening of hubday",
+        datetime: "2022-11-02T18:00:00+09:00"
+      }
+    ],
+  },
   'y-dev01': {
     kadai: [
       {
